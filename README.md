@@ -91,23 +91,11 @@ The sensor-lite model achieves comparable accuracy to full-sensor models, demons
 
 ## Citation
 
-If you use this code or data in your research, please cite:
-
-```
-@article{YourCitation2025,
-  title={Sensor-Lite Model for Thermal Comfort Prediction Using Contextual Proxy Features},
-  author={Md Syamul and Collaborators},
-  journal={Journal Name},
-  year={2025},
-  volume={XX},
-  pages={YY-ZZ},
-  doi={YOUR_DOI_HERE}
-}
-```
+If you use this code or data in your research, please cite.
 
 ## Acknowledgements
 
-This project was developed by [Md Syamul](https://github.com/MdSyamul) and collaborators. We thank the building occupants, data providers, and open-source community.
+We thank the data providers and open-source community.
 
 ## License
 
